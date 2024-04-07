@@ -1,8 +1,8 @@
 
 # REACT 
 
-SO, hi everyone This is the first project I made by using REACT .
-I statred learning react through projects, This is the first one, not as fancy as product landing pages are,but covering initials of react,so that my understandability towards this library expands in a fruitful manner.Hope you all like it.
+So, hi everyone This is the first project I made by using REACT .
+I started learning react through projects, This is the first one, not as fancy as product landing pages are,but covering initials of react,so that my understandability towards this library expands in a fruitful manner.Hope you all like it.
 
 
 # React + Vite
