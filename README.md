@@ -1,5 +1,8 @@
-# product-landing-page
-Hi everyone,
-my first product landing page in react. this is so simple,it is just a way to learn initials of react,and we will learn it through making projects.
-This is my first project in react...This is not that much fancy, I just want to take my first step into react...and this is it.
-hope you all like it.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
